@@ -74,6 +74,12 @@ document.querySelectorAll('.navbar a').forEach(anchor => {
 });
 
 
+function redirectToAccessPage() {
+    // Redirect to the "request access" page
+    window.location.href = "request_access_page.html";
+}
+
+
 
 
  
