@@ -546,29 +546,6 @@ body
 }
 
 
-.header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between; /* Added for spacing between logo and text */
-    position: fixed;
-    width: 100%;
-    transition: all 0.3s ease; /* Smooth transition effect */
-    z-index: 1000;
-}
-
-.logo {
-    display: flex;
-    align-items: center;
-    text-decoration: none;
-    color: #333; /* color of the text */
-}
-
-.logo img {
-    width: 90px; /* adjust the width as needed */
-    height: auto; /* maintains aspect ratio */
-    margin-right: 10px; /* spacing between logo and text */
-    margin-top: 10px;
-}
 
 
 
